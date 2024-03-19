@@ -1,0 +1,132 @@
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.bookfont {
+    display: grid;
+    place-content: end;
+}
+
+.left {
+    font-size: 4rem;
+    color: violet;
+}
+
+.right{
+    font-size: 4rem;
+    color: violet;
+}
+
+.cmopanyname {
+    display: grid;
+    place-content: center;
+    width: 100%;
+}
+
+.cname {
+    text-align: center;
+    background-color: violet;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    color: white;
+    padding: 5px;
+
+}
+
+p {
+    text-align: center;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+}
+
+.minus {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    place-content: center;
+    color: violet;
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+}
+
+.moteam {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.ourteam {
+    display: grid;
+    place-content: center;
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+.management {
+    text-align: center;
+    background-color: violet;
+    /* width: 50%; */
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    color: white;
+    padding: 5px;
+}
+.card{
+    text-align: center;      
+}
+.avtar{
+    height: 150px;
+    width: 150px;
+    border: black 2px solid;
+    border-radius: 50%;
+    background-color: gray;
+    margin: 20px;
+}
+.teamprofile{
+    display: flex;
+    flex-direction: row;
+   justify-content: center;
+   flex-wrap: wrap;
+}
+.devteam{
+    margin-bottom: 50px;
+}
+.devhead{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    /* background-color: aqua; */
+    margin-bottom: 30px;
+}
+.devh{
+    text-align: center;
+    background-color: violet;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    color: white;
+    padding: 5px;
+}
+
+.saleh{
+    text-align: center;
+    background-color: violet;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    color: white;
+    padding: 5px;
+}
